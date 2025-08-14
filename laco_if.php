@@ -14,8 +14,13 @@
     $numero2 = 200;
 
     if($numero1 > $numero2){
-        echo "O ". $numero1. " é maior que o ". $numero2;
-    }else {
-        echo "O ". $numero1 . " não é maior que o ". $numero2;
+        echo "O ". $numero1. " é maior que ". $numero2;
+    }
+
+    if($numero1 == $numero2){
+        echo "O $numero1 é igual a $numero2";
+    }
+    if($numero1 < $numero2){
+        echo "O $numero1 é menor que o $numero2";
     }
 ?>
