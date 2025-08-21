@@ -6,10 +6,14 @@
             echo "Número: $contador<br>";
             $contador++;
         } 
+?>
 
-$contador = 1;
-do {
-    echo "Número: $contador<br>";
-    $contador++;
-}while ($contador <=5);
+<h3> Este é um Do While </h3>
+
+<?php
+    $contador = 1;
+    do {
+        echo "Número: $contador<br>";
+        $contador++;
+    }while ($contador <=5);
 ?>
