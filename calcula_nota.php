@@ -2,6 +2,7 @@
 require "funcoes.php";
 
 $nota = $_POST['nota'];
+$disciplina = $_POST['disciplina'];
 
-nota($nota);
+nota($nota,$disciplina);
 ?>

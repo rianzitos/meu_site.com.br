@@ -20,15 +20,15 @@ function fiap($aluno1, $aluno2, $aluno3, $observacao){
 }
 
 
-    function nota($nota) {
+    function nota($nota, $disciplina) {
         if ($nota >= 7) {
-            echo "Você está aprovado :D!";
+            echo "Você está aprovado em $disciplina :D!";
         }
         if ($nota >=5 and $nota < 7){
-            echo "Você está de recuperação";
+            echo "Você está de recuperação em $disciplina";
         }
         if ($nota < 5){
-            echo "Você está reprovado";
+            echo "Você está reprovado em $disciplina";
         }
     }
 ?>
