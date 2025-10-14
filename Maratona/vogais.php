@@ -10,4 +10,5 @@ for ($i = 0; $i < strlen($str); $i++) {
 }
 
     echo "<h2> A palavra '$str' tem $cont vogais. </h2>";
+    preg_match_all("/\d+/", "Tenho 2 gatos e 3 cachorros", $matches);
 ?>
