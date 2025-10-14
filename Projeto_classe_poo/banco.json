@@ -1,0 +1,21 @@
+{
+    "professores": [
+        {
+            "nome": "Yuri Alberto",
+            "email": "rian.alves@portalsesisp.org.br",
+            "disciplina": "Matemática"
+        },
+        {
+            "nome": "Rian",
+            "email": "rian.alves@portalsesisp.org.br",
+            "disciplina": "Matemática"
+        }
+    ],
+    "alunos": [
+        {
+            "nome": "Rian",
+            "email": "rian.alves@portalsesisp.org.br",
+            "matricula": "202501AA"
+        }
+    ]
+}

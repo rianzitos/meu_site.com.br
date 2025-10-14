@@ -1,0 +1,13 @@
+.corpoIndex{
+
+}
+.containerForum{
+    border: solid black 2px;
+    border-radius: 20px;
+    padding: 15px;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-image: linear-gradient(rgb(0, 106, 255), rgb(135, 6, 175));
+    color: white;
+}
