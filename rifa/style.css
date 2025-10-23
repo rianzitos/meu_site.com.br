@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://cdn.meutimao.com.br/_upload/wallpapers/neo_quimica_arena-wallpaper_em_4k_ds_3840x2160.jpg);
+    background-size: cover;
+}
+form {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    opacity: 85%;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 25px 10px antiquewhite;
+}
+
+section {
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    opacity: 90%;
+    text-align: center;
+    box-shadow: 0px 0px 25px 10px antiquewhite;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.botao{
+    font-weight: bold;
+    border: solid black 2px;
+    font-size: 20px;
+}
